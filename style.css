@@ -100,13 +100,13 @@ footer {
   align-items: center;
   padding: 10px;
   width: 320px;
-  background: #cb782f;
+  background: #ee82ee;
   border-radius: 20px;
 
   font-size: 14px;
   line-height: 1.4;
 
-  color: #ffffff;
+  color: #000000;
 
   text-decoration: none;
 }

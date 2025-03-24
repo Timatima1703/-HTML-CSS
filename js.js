@@ -1,7 +1,3 @@
-<button="externalLinkButton">Перейти на сайт</button>
-
-<script>
-  document.getElementById('externalLinkButton').addEventListener('click', function() {
-    window.location.href = 'https://www.example.com';
-  });
-</script>
+document.getElementById("myButton").addEventListener("click", function() {
+window.open("https://qa.studio/", "_blank");
+});
